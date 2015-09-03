@@ -8,7 +8,8 @@ test-output/
 .project
 .settings
 # Idea project files
-.idea
+.idea/
+.idea/libraries/
 *.iml
 # Package Files #
 *.jar
